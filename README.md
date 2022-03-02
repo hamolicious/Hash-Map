@@ -1,5 +1,5 @@
 # Hash Map
-Was wondering how Hash Maps worked so I decided to create my own, this hash map uses MD5 hashing and a chaining, linked-list collision resolution. This will be the 2nd part to my "FromScratch" journey where I create projects that are usually implemented for you in almost every language to get a better understanding of them.
+Was wondering how Hash Maps worked so I decided to create my own, this hash map uses MD5 hashing and a chaining, linked-list collision resolution. This will be the 2nd ([see 1st](https://github.com/hamolicious/LFSR-RNG)) part to my "FromScratch" journey where I create projects that are usually implemented for you in almost every language to get a better understanding of them.
 
 ## Uses
 ```python
